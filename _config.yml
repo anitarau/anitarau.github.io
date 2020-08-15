@@ -1,2 +1,6 @@
 name: Anita Rau webpage
 markdown: kramdown
+
+plugins:
+  - jekyll-octicons
+  - jekyll-github-metadata
