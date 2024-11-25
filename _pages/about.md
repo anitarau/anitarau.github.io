@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -15,8 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoc with [Serena Yeung-Levy](https://ai.stanford.edu/~syyeung/) at the [Medical AI and Computer Vision Lab](https://marvl.stanford.edu) at Stanford Univeristy. My research focus in AI for surgery which includes both spatial and semantic understanding of surgical scenes from video. 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi! I am a Postdoc with [Serena Yeung-Levy](https://ai.stanford.edu/~syyeung/) at the [Medical AI and Computer Vision Lab](https://marvl.stanford.edu) at Stanford Univeristy. My research focus in AI for surgery which includes both spatial and semantic understanding of surgical scenes from video. 
