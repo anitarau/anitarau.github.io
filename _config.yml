@@ -111,9 +111,9 @@ work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
-
+ 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please feel free to reach out if you'd like to talk about research!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -194,10 +194,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 announcements:
@@ -314,8 +314,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Rau]
+  first_name: [Anita, A.]
 
   style: apa
   locale: en
