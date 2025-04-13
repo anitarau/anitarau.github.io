@@ -7,4 +7,6 @@ dropdown: true
 children:
   - title: repositories
     permalink: /repositories/
+  - title: all news
+    permalink: /news/
 ---
