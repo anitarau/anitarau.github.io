@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our code base for our benchmarking work Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence is [available](https://arxiv.org/pdf/2504.02799)!
+Our code base for our benchmarking work Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence is [available](https://github.com/anitarau/SurgBenchKit)!
